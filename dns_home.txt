@@ -1,1 +1,13 @@
 192.168.3.35 harbor.powerlaw.club
+192.168.3.35 fnos.powerlaw.club
+192.168.3.35 vaultwarden.powerlaw.club
+192.168.3.35 vscode.powerlaw.club
+192.168.3.35 minio-console.powerlaw.club
+
+192.168.3.35 grafana.powerlaw.club
+192.168.3.35 prometheus.powerlaw.club
+192.168.3.35 alertmanager.powerlaw.club
+192.168.3.35 gitlab.powerlaw.club
+192.168.3.35 xunlei.powerlaw.club
+192.168.3.35 pve.powerlaw.club
+192.168.3.35 dbgate.powerlaw.club

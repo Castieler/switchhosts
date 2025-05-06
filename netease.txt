@@ -1,0 +1,3 @@
+117.187.150.153 thanos-receive.lowcode.com thanos.lowcode.com
+117.187.150.153 grafana.lowcode.com
+111.124.202.60 new-grafana.codewave-test.163yun.com

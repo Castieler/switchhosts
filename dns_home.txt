@@ -11,3 +11,5 @@
 192.168.3.35 xunlei.powerlaw.club
 192.168.3.35 pve.powerlaw.club
 192.168.3.35 dbgate.powerlaw.club
+192.168.3.35 queryfrontend.powerlaw.club query.powerlaw.club thanos-bucketweb.powerlaw.club thanos-receive.powerlaw.club thanos-ruler.powerlaw.club thanos-storegateway.powerlaw.club
+192.168.3.35 n9e.powerlaw.club ks-console.powerlaw.club

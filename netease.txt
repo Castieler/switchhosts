@@ -6,7 +6,8 @@
 
 
 59.111.124.100 prometheus-thanos.ctrl.ha3112-lowcode.com
- 
+59.111.124.100 new-granfa.ha3112-lowcode.com
+
 117.187.150.153 n9e.lowcode.com
 # 深能环保
 10.7.202.41 alertmanager.ctrl.seee.com.cn

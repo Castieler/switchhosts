@@ -1,3 +1,32 @@
 117.187.150.153 thanos-receive.lowcode.com thanos.lowcode.com
 117.187.150.153 grafana.lowcode.com
 111.124.202.60 new-grafana.codewave-test.163yun.com
+111.124.197.145 defaulttenant.lcap.lcap-test-383.com
+111.124.197.145 minio-api.lcap-test-383.com
+
+
+59.111.124.100 prometheus-thanos.ctrl.ha3112-lowcode.com
+ 
+117.187.150.153 n9e.lowcode.com
+# 深能环保
+10.7.202.41 alertmanager.ctrl.seee.com.cn
+10.7.202.41 new-grafana.seee.com.cn
+10.7.202.41 prometheus-thanos.ctrl.seee.com.cn
+# 五矿
+192.168.239.166 harbor.sf.wkqh.cn
+192.168.239.167 gitlab.sf.wkqh.cn
+192.168.239.167 ceph.sf.wkqh.cn
+192.168.239.167 lcap.sf.wkqh.cn
+192.168.239.167 defaulttenant.wkqh.cn
+192.168.239.167 defaulttenant.dev.lcap.sf.wkqh.cn
+192.168.239.167 defaulttenant.user.lcap.sf.wkqh.cn
+192.168.239.167 dev.defaulttenant.user.lcap.sf.wkqh.cn
+192.168.239.167 owl.sf.wkqh.cn
+192.168.239.167 cicd-cn-deploy-web.sf.wkqh.cn
+192.168.239.167 cicd-web.sf.wkqh.cn
+192.168.239.167 minio.sf.wkqh.cn
+192.168.239.167 minio-api-sf.wkqh.cn
+
+
+# 振华
+10.128.51.59 new-granfa.zpmc.com

@@ -29,5 +29,9 @@
 192.168.239.167 minio-api-sf.wkqh.cn
 
 
+# harbor 杭州迁移贵州
+59.111.124.57 harbor.qz.163yun.com
+111.124.202.52 harbor.migration.com
+
 # 振华
 10.128.51.59 new-granfa.zpmc.com

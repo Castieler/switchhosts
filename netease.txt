@@ -31,7 +31,7 @@
 
 # harbor 杭州迁移贵州
 59.111.124.57 harbor-old.qz.163yun.com
-111.124.202.52 harbor.qz.163yun.com
+111.124.202.52 harbor.qz.163yun.com  harborxxx.qz.163yun.com
 
 # 振华
 10.128.51.59 new-granfa.zpmc.com

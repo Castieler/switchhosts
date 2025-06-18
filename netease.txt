@@ -40,7 +40,7 @@
 27.221.63.239 n9e.cyelife.com
 27.221.63.239 defaulttenant.cyelife.com
 27.221.63.239 prometheus-thanos.ctrl.cyelife.com
-
+27.221.63.239 new-grafana.cyelife.com
 
 # 杭电信工
 10.130.4.157 defaulttenant.lcap.lowcode.hziee.cn

@@ -35,3 +35,27 @@
 
 # 振华
 10.128.51.59 new-granfa.zpmc.com
+
+# 山东精石
+27.221.63.239 n9e.cyelife.com
+27.221.63.239 defaulttenant.cyelife.com
+27.221.63.239 prometheus-thanos.ctrl.cyelife.com
+
+
+# 杭电信工
+10.130.4.157 defaulttenant.lcap.lowcode.hziee.cn
+10.130.4.157 minio-api.lowcode.hziee.cn
+
+# 五矿
+192.168.239.167 new-granfa.wkqh.cn
+192.168.239.167 prometheus-thanos.ctrl.sf.wkqh.cn
+192.168.239.167 alertmanager.ctrl.sf.wkqh.cn
+
+
+59.111.124.100 defaulttenant.ha3121-lowcode.com
+
+# 京东方内部测试环境
+220.197.37.146 elasticsearch.v3132c-lowcode.com
+220.197.37.146 kibana.v3132c-lowcode.com
+220.197.37.146 logstash.v3132c-lowcode.com
+
